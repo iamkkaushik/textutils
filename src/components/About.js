@@ -6,6 +6,7 @@ export default function About(props) {
     //     color: 'black',
     //     backgroundColor: 'white'
     // }) 
+    // hdfs jwt
     let myStyle = {
         color: props.mode ==='dark'?'white':'#042743',
         backgroundColor: props.mode ==='dark'?'rgb(36 74 104)':'white', 
